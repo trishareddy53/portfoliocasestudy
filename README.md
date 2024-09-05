@@ -1,6 +1,7 @@
 # A Portfolio Case Study
-A portfolio case study by Trisha.
----
+
+> A portfolio case study by Trisha.
+
 To design John's portfolio, we can develop personas and case studies that highlight his skills, experience, and projects effectively. Here's a detailed plan with suggested personas and case studies:
 
 ### Personas
