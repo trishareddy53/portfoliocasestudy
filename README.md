@@ -65,13 +65,13 @@ To design John's portfolio, we can develop personas and case studies that highli
    - **Problem Statement:** Users need an efficient task management tool that is scalable and reliable.
    - **Solution:** Developed a full-stack application using NextJS, Tailwind CSS, PostgreSQL, and CI/CD pipelines to ensure high-quality, scalable software. Focused on detailed software architecture and integrated DevOps practices for seamless deployment.
    - **Challenges:** Ensuring system resilience and performance under high user load, integrating automated testing for reliability, and maintaining continuous deployment cycles.
-   - **Outcome:** Successfully deployed the app with a robust architecture, handling 100+ users with ease, showcasing Bharath’s ability to deliver scalable solutions and work collaboratively in a cross-functional team environment.
+   - **Outcome:** Successfully deployed the app with a robust architecture, handling 100+ users with ease, showcasing John’s ability to deliver scalable solutions and work collaboratively in a cross-functional team environment.
 
 2. **Case Study 2: Weather Forecast using OpenWeatherAPI**
    - **Problem Statement:** Users need real-time weather information that is easy to access and understand.
    - **Solution:** Built a web application using JavaScript, HTML, and CSS, integrating OpenWeatherAPI to fetch real-time data. Focused on optimizing UI performance and ensuring a seamless user experience.
    - **Challenges:** Implementing real-time data fetching and processing while ensuring responsive UI performance across different devices and platforms.
-   - **Outcome:** Deployed on GCP, the application delivers real-time weather data efficiently and has been well-received for its user-friendly design, demonstrating Bharath’s front-end skills and attention to detail in UI/UX.
+   - **Outcome:** Deployed on GCP, the application delivers real-time weather data efficiently and has been well-received for its user-friendly design, demonstrating John’s front-end skills and attention to detail in UI/UX.
 
 3. **Case Study 3: Paginated StarWars Data Showcase**
    - **Problem Statement:** Fans of Star Wars need an organized way to explore vast amounts of universe data.
